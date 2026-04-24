@@ -21,3 +21,17 @@ El formato está basado en
 - Carga de dataset 'speeding_fines.csv' mediante pathlib.
 - Analisis de tipo (dtypes) y  valores nulos (isnull().sum()).
 - Creación de la rama ejercicio_2_3
+
+
+## [0.3.0] - 2026-04-24
+
+### Added
+- Normalización de fechas con formato YYYY-MM-DD
+- Normalización de horas a formato 24 HS 
+- Normalización de Ubicaciones, se quitaron caracteres especiales y se pasaron a mayúsculas
+- Normalización de patentes, se quitaron caracteres especiales y pasaron a mayúsculas.
+- Se eliminaron las filas que tenían inconsistencia de datos que imposibilitaban las generación de la infracción
+- Se buscaron outliers en las columnas numericas
+- Se creo la columna exceso_velocidad_real y exceso_velocidad
+- Se eliminaron las filas con patentes que no cometieron infracciones.
+- Se generó un dataset limpio en la carpeta interim
