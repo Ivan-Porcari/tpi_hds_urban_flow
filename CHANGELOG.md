@@ -35,3 +35,12 @@ El formato está basado en
 - Se creo la columna exceso_velocidad_real y exceso_velocidad
 - Se eliminaron las filas con patentes que no cometieron infracciones.
 - Se generó un dataset limpio en la carpeta interim
+
+
+
+## [0.3.1] - 2026-04-25
+
+### Fixed
+- Se corrigio el codigo para que los datos invalidos representados con 1932-01-01 y 00:00, queden en el dataset 
+para su posterior uso.
+
