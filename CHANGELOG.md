@@ -44,3 +44,9 @@ El formato está basado en
 - Se corrigio el codigo para que los datos invalidos representados con 1932-01-01 y 00:00, queden en el dataset 
 para su posterior uso.
 
+
+## [0.3.0] - 2026-04-25
+
+### Added
+- Ejercicio 04: clase FineAnalyzer con encapsulamiento y 5 metodos de analisis
+- Punto 05: graficos de patentes, horarios, meses y excesos exportados como jpg
