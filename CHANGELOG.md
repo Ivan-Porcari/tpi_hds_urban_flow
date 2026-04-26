@@ -50,3 +50,9 @@ para su posterior uso.
 ### Added
 - Ejercicio 04: clase FineAnalyzer con encapsulamiento y 5 metodos de analisis
 - Punto 05: graficos de patentes, horarios, meses y excesos exportados como jpg
+
+## [0.3.0] - 2026-04-25
+
+### Added
+- Ejercicio 04: clase FineAnalyzer con encapsulamiento y 5 metodos de analisis
+- Punto 05: graficos de patentes, horarios, meses y excesos exportados como jpg
