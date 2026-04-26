@@ -50,3 +50,10 @@ para su posterior uso.
 ### Added
 - Ejercicio 04: clase FineAnalyzer con encapsulamiento y 5 metodos de analisis
 - Punto 05: graficos de patentes, horarios, meses y excesos exportados como jpg
+
+## [0.4.0] - 2026-04-26
+
+### Added
+- Ejercicio 06: Visualizacion del dataframe limpio, y calculo de los porcentajes 
+correspondientes a las infracciones en la fecha 1932-01-01 y el porcentaje
+de infracciones correspondientes a la hora 00:00.
