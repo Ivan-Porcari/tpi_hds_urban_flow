@@ -8,3 +8,6 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# ZIP de descarga de imágenes
+urban_flow/data/raw/urban_flow_plates.zip
