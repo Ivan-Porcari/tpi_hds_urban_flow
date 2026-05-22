@@ -99,3 +99,11 @@ Redacción de la conclusión del trabajo práctico grupal.
 - Suavizado con GaussianBlur sobre imágenes en escala de grises
 - Detección de bordes con Canny sobre imágenes suavizadas
 - Visualización de imágenes procesadas en cada etapa
+
+## [1.0.0] - 2026-05-19
+
+### Added
+- Clone del repositorio Sprint_1
+- Creación de rama Sprint_2 partiendo de Sprint_1
+- Descarga y extracción del dataset de imágenes en raw/imgs
+- Actualización de README al Sprint 2
