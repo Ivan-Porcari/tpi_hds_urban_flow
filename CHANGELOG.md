@@ -185,3 +185,11 @@ Redacción de la conclusión del trabajo práctico grupal.
 - Cálculo de imágenes sin match con el dataset
 - Cálculo de multas pendientes de pago (IMPAGA)
 - Cálculo de multas pendientes de pago con imágenes relacionadas
+
+## [1.0.0] - 2026-05-19
+
+### Added
+- Clone del repositorio Sprint_1
+- Creación de rama Sprint_2 partiendo de Sprint_1
+- Descarga y extracción del dataset de imágenes en raw/imgs
+- Actualización de README al Sprint 2
