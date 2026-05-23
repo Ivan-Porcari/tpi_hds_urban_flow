@@ -210,3 +210,12 @@ Redacción de la conclusión del trabajo práctico grupal.
 - Suavizado con GaussianBlur sobre imágenes en escala de grises
 - Detección de bordes con Canny sobre imágenes suavizadas
 - Visualización de imágenes procesadas en cada etapa
+
+## [1.3.0] - 2026-05-22
+
+### Added
+- Extracción de patentes con EasyOCR sobre grupo plates
+- Actualización de group_images.json con campo patent
+- Matching de patentes OCR vs speeding_fines.csv (umbral 80%)
+- Generación de speeding_fines_image.csv con columnas
+  imagen, patente_imagen, ratio
