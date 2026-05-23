@@ -150,3 +150,11 @@ Redacción de la conclusión del trabajo práctico grupal.
 - Generación del diccionario group_images
 - Guardado de group_images en urban_flow/data/interim/group_images.json
 - Función reutilizable mostrar_imagenes_grilla
+
+## [1.2.0] - 2026-05-21
+
+### Added
+- Conversión a escala de grises de imágenes originales
+- Suavizado con GaussianBlur sobre imágenes en escala de grises
+- Detección de bordes con Canny sobre imágenes suavizadas
+- Visualización de imágenes procesadas en cada etapa
