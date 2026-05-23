@@ -176,3 +176,12 @@ Redacción de la conclusión del trabajo práctico grupal.
 - Cálculo de imágenes sin match con el dataset
 - Cálculo de multas pendientes de pago (IMPAGA)
 - Cálculo de multas pendientes de pago con imágenes relacionadas
+
+## [1.4.0] - 2026-05-22
+
+### Added
+- Cálculo de multas sin imágenes
+- Cálculo de multas con imágenes
+- Cálculo de imágenes sin match con el dataset
+- Cálculo de multas pendientes de pago (IMPAGA)
+- Cálculo de multas pendientes de pago con imágenes relacionadas
