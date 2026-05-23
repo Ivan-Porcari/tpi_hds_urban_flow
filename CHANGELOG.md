@@ -167,3 +167,12 @@ Redacción de la conclusión del trabajo práctico grupal.
 - Matching de patentes OCR vs speeding_fines.csv (umbral 80%)
 - Generación de speeding_fines_image.csv con columnas
   imagen, patente_imagen, ratio
+
+## [1.4.0] - 2026-05-22
+
+### Added
+- Cálculo de multas sin imágenes
+- Cálculo de multas con imágenes
+- Cálculo de imágenes sin match con el dataset
+- Cálculo de multas pendientes de pago (IMPAGA)
+- Cálculo de multas pendientes de pago con imágenes relacionadas
