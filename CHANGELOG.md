@@ -133,3 +133,11 @@ Redacción de la conclusión del trabajo práctico grupal.
 - Matching de patentes OCR vs speeding_fines.csv (umbral 80%)
 - Generación de speeding_fines_image.csv con columnas
   imagen, patente_imagen, ratio
+
+## [1.0.0] - 2026-05-19
+
+### Added
+- Clone del repositorio Sprint_1
+- Creación de rama Sprint_2 partiendo de Sprint_1
+- Descarga y extracción del dataset de imágenes en raw/imgs
+- Actualización de README al Sprint 2
