@@ -193,3 +193,12 @@ Redacción de la conclusión del trabajo práctico grupal.
 - Creación de rama Sprint_2 partiendo de Sprint_1
 - Descarga y extracción del dataset de imágenes en raw/imgs
 - Actualización de README al Sprint 2
+
+## [1.1.0] - 2026-05-21
+
+### Added
+- Listado de imágenes con nombre y tamaño en KB
+- Separación en grupos plates y completes
+- Generación del diccionario group_images
+- Guardado de group_images en urban_flow/data/interim/group_images.json
+- Función reutilizable mostrar_imagenes_grilla
