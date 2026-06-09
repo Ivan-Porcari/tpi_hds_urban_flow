@@ -96,3 +96,10 @@ El formato está basado en
   se reemplazó LCS por comparación posicional estricta
   de izquierda a derecha, alineando la lógica con la
   consigna del ejercicio 04
+
+## [1.7.0] - 2026-06-08
+
+### Fixed
+- Corrección de matching_patentes: ahora genera el CSV completo
+  con todas las multas, agregando imagen, patente_imagen y ratio
+  solo cuando existe match >= 80%
