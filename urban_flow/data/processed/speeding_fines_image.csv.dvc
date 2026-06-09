@@ -1,0 +1,5 @@
+outs:
+- md5: a15d21f3884c0406d24da00202d6afcb
+  size: 154876
+  hash: md5
+  path: speeding_fines_image.csv

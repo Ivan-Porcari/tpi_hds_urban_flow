@@ -1,0 +1,4 @@
+[core]
+    remote = remote_dvc
+['remote "remote_dvc"']
+    url = /content/remote_dvc
