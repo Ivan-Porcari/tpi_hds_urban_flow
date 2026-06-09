@@ -103,3 +103,10 @@ El formato está basado en
 - Corrección de matching_patentes: ahora genera el CSV completo
   con todas las multas, agregando imagen, patente_imagen y ratio
   solo cuando existe match >= 80%
+
+## [2.0.0] - 2026-06-08
+
+### Added
+- Creación de rama Sprint_3 partiendo de Sprint_2
+- Verificación de acceso a todos los datasets previos
+- Actualización de README al Sprint 3
