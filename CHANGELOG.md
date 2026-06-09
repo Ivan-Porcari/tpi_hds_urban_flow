@@ -110,3 +110,12 @@ El formato está basado en
 - Creación de rama Sprint_3 partiendo de Sprint_2
 - Verificación de acceso a todos los datasets previos
 - Actualización de README al Sprint 3
+
+## [2.1.0] - 2026-06-09
+
+### Added
+- Inicialización de DVC en el repositorio
+- Creación de remote DVC local en /content/remote_dvc
+- Migración de speeding_fines_image.csv a DVC
+- Migración de imágenes (urban_flow/data/raw/imgs) a DVC
+- Push de datos al remote DVC
