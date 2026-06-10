@@ -119,3 +119,10 @@ El formato está basado en
 - Migración de speeding_fines_image.csv a DVC
 - Migración de imágenes (urban_flow/data/raw/imgs) a DVC
 - Push de datos al remote DVC
+
+## [2.2.0] - 2026-06-09
+
+### Added
+- Exploración del CSV base speeding_fines_image.csv
+- Diseño del modelo lógico con entidades Vehiculo,
+  Radar, Multa y Evidencia
