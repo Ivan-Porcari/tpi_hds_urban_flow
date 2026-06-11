@@ -126,3 +126,11 @@ El formato está basado en
 - Exploración del CSV base speeding_fines_image.csv
 - Diseño del modelo lógico con entidades Vehiculo,
   Radar, Multa y Evidencia
+
+## [2.3.0] - 2026-06-10
+
+### Added
+- Clases del modelo lógico: Vehiculo, Radar,
+  Evidencia y Multa
+- Función procesar_fila_csv que mapea una fila
+  del CSV a instancias del modelo lógico
