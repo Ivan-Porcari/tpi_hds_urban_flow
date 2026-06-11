@@ -134,3 +134,12 @@ El formato está basado en
   Evidencia y Multa
 - Función procesar_fila_csv que mapea una fila
   del CSV a instancias del modelo lógico
+
+## [2.4.0] - 2026-06-10
+
+### Added
+- Modelos relacionales SQLAlchemy: VehiculoORM,
+  RadarORM, EvidenciaORM y MultaORM
+- Claves primarias y foráneas definidas
+- Relaciones entre tablas con relationship()
+- Método __repr__ en cada modelo
