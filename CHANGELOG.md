@@ -143,3 +143,13 @@ El formato está basado en
 - Claves primarias y foráneas definidas
 - Relaciones entre tablas con relationship()
 - Método __repr__ en cada modelo
+
+## [2.5.0] - 2026-06-10
+
+### Added
+- Creación de base de datos SQLite transito.db
+- Creación automática de tablas con SQLAlchemy ORM
+- Migración de datos desde speeding_fines_image.csv
+- Validación de registros: 66 vehículos, 4 radares,
+  1713 multas, 29 evidencias
+- transito.db migrado a DVC
