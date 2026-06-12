@@ -162,3 +162,10 @@ El formato está basado en
 - Consultas SQL: radares más activos
 - Consultas SQL: reincidentes en período dado
 - Consultas SQL: porcentaje de multas con evidencia visual
+
+## [2.7.0] - 2026-06-12
+
+### Added
+- Base vectorial ChromaDB 'patente_vectorial'
+- Embeddings OpenCLIP de imágenes de evidencia
+- Vinculación de imágenes con patente del vehículo
