@@ -153,3 +153,12 @@ El formato está basado en
 - Validación de registros: 66 vehículos, 4 radares,
   1713 multas, 29 evidencias
 - transito.db migrado a DVC
+
+## [2.6.0] - 2026-06-12
+
+### Added
+- Consultas SQL: top patentes con más multas
+- Consultas SQL: multas sin evidencia asociada
+- Consultas SQL: radares más activos
+- Consultas SQL: reincidentes en período dado
+- Consultas SQL: porcentaje de multas con evidencia visual
