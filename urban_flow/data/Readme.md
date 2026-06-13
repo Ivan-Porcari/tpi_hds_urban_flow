@@ -29,3 +29,13 @@ siguientes observaciones:
   tasa de match sería necesario un modelo de OCR más robusto
   y una mayor consistencia en la captura de imágenes por
   parte de los radares.
+
+## Conclusión Sprint 3
+
+A lo largo del Sprint 3 se profesionalizó el sistema Urban Flow
+incorporando persistencia relacional con SQLite y SQLAlchemy ORM,
+versionado de archivos binarios con DVC y búsqueda vectorial por
+similitud visual con ChromaDB y OpenCLIP. La función
+buscar_patente_imagen integra ambas bases de datos permitiendo
+identificar vehículos a partir de una imagen de forma eficiente.
+El sistema resultante es escalable, reproducible y auditable.

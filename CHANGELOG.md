@@ -176,3 +176,8 @@ El formato está basado en
 - Función buscar_patente_imagen: recibe una ruta de imagen,
   genera embedding con OpenCLIP, consulta ChromaDB y
   retorna el VehiculoORM con sus multas asociadas
+
+## [2.9.0] - 2026-06-13
+
+### Added
+- Conclusión del Sprint 3 agregada a urban_flow/data/Readme.md
