@@ -169,3 +169,10 @@ El formato está basado en
 - Base vectorial ChromaDB 'patente_vectorial'
 - Embeddings OpenCLIP de imágenes de evidencia
 - Vinculación de imágenes con patente del vehículo
+
+## [2.8.0] - 2026-06-13
+
+### Added
+- Función buscar_patente_imagen: recibe una ruta de imagen,
+  genera embedding con OpenCLIP, consulta ChromaDB y
+  retorna el VehiculoORM con sus multas asociadas
